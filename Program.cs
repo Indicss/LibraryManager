@@ -189,7 +189,7 @@ public class Library
         
         if (!foundOverdue)
         {
-            Console.WriteLine("No overdue books.");
+            Console.WriteLine("No overdue books");
         }
     }
 }
